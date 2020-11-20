@@ -1,5 +1,6 @@
 # TypingSpeeds
 
-## DEMO: typingspeeds.blogspot.com
+## DEMO: 
+https://typingspeeds.blogspot.com
 
 ## Source code coming soon!
